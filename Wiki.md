@@ -15,9 +15,8 @@ PASOS:
 ![image](https://cdn.discordapp.com/attachments/1006269019646603349/1022549629058945054/unknown.png)
 
 2. Configuración de los tres switches y el router principal.
-
-
-![image]([https://cdn.discordapp.com/attachments/1006269019646603349/1022549629058945054/unknown.png](https://media.discordapp.net/attachments/1006269019646603349/1022550314596974612/unknown.png?width=910&height=676))
+ 
+![image][([https://cdn.discordapp.com/attachments/1006269019646603349/1022549629058945054/unknown.png]]
 
 3. Conexión de cables de consola de un PC a el router o a los switches y configuración básica (host, contraseña).
 
