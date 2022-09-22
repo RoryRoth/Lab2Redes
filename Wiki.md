@@ -1,5 +1,5 @@
 # Lab2
-Construcción, simulación y configuración de Redes VLAN
+Construcción, simulación y configuración de Redes VLAN by Héctor Díaz, Juan Manuel Deutsch, Santiago Contreras
 
 OBJETIVOS:
 
