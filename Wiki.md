@@ -16,26 +16,27 @@ PASOS:
 
 2. Configuración de los tres switches y el router principal.
 
-https://media.discordapp.net/attachments/1006269019646603349/1022550314596974612/unknown.png?width=910&height=676
+
+![image]([https://cdn.discordapp.com/attachments/1006269019646603349/1022549629058945054/unknown.png](https://media.discordapp.net/attachments/1006269019646603349/1022550314596974612/unknown.png?width=910&height=676))
 
 3. Conexión de cables de consola de un PC a el router o a los switches y configuración básica (host, contraseña).
 
-https://cdn.discordapp.com/attachments/1006269019646603349/1022550970669989939/Untitled.png
-https://cdn.discordapp.com/attachments/1006269019646603349/1022550970309292062/Untitled2.png
+![image](https://cdn.discordapp.com/attachments/1006269019646603349/1022550970669989939/Untitled.png)
+![image](https://cdn.discordapp.com/attachments/1006269019646603349/1022550970309292062/Untitled2.png)
 
 4. Configuración de VLAN en switches y los routers.
 
-https://cdn.discordapp.com/attachments/1006269019646603349/1022551480911282316/unknown.png
-https://cdn.discordapp.com/attachments/1006269019646603349/1022551487697653791/unknown.png
+![image](https://cdn.discordapp.com/attachments/1006269019646603349/1022551480911282316/unknown.png)
+![image](https://cdn.discordapp.com/attachments/1006269019646603349/1022551487697653791/unknown.png)
 
 5. Configuración de las IP's de las interfaces NIC en los PC's.
 
 6. Verificaciones de las IP's en cada una de las PC´s del espacio de trabajo.
 
-https://cdn.discordapp.com/attachments/1006269019646603349/1022552065039405096/unknown.png
-https://cdn.discordapp.com/attachments/1006269019646603349/1022552200716767343/unknown.png
+![image](https://cdn.discordapp.com/attachments/1006269019646603349/1022552065039405096/unknown.png)
+![image](https://cdn.discordapp.com/attachments/1006269019646603349/1022552200716767343/unknown.png)
 
 7. Verificación de las VLAN estén correctamente creadas y asignadas.
 
-https://cdn.discordapp.com/attachments/1006269019646603349/1022552524135342080/unknown.png
+![image](https://cdn.discordapp.com/attachments/1006269019646603349/1022552524135342080/unknown.png)
 
