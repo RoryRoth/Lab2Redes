@@ -12,7 +12,7 @@ PASOS:
 
 1. Se inicia el desarrollo en la modalidad de configuración física, agregando 3 racks. Cada uno con un router, un switch y un patch panel.
 
-![img](https://cdn.discordapp.com/attachments/1006269019646603349/1022549629058945054/unknown.png)
+![image](https://cdn.discordapp.com/attachments/1006269019646603349/1022549629058945054/unknown.png)
 
 2. Configuración de los tres switches y el router principal.
 
