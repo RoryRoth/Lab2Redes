@@ -66,3 +66,6 @@ CONCLUSIONES:
 6. Cuando esta red se conecta a una diferente VLAN, esta realiza diferentes procesos con el fin de determinar la IP, el default gateway y la ruta más rápida hacia el PC al cual se le va a enviar el paquete final.
 
 ![image](https://cdn.discordapp.com/attachments/1006269019646603349/1022558631222321287/unknown.png)
+
+Finalizando aqui esta el video de lo que se realizo en el lab
+https://youtu.be/iUsCeFN56kg
